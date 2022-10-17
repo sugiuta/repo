@@ -1,8 +1,3 @@
-@charset "utf-8"
-
-* {
-    outline: 1px solid magenta;background-color: #222222;
-}
 
 body {
     margin: 0;
@@ -15,9 +10,7 @@ body {
 
 .header {
     width: 100%;
-    height: 100px;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    height: 160px;
     box-sizing: border-box;
     background: linear-gradient(45deg, #b721ff, #21d4fd);
     background-size: 200% 200%;
@@ -30,6 +23,8 @@ body {
 	padding: 16px;
 	font-size: 32px;
 	text-align: center;
+    height: 80px;
+    line-height: 80px;
     color: #fff;
 }
 
@@ -88,6 +83,10 @@ body {
     width: 150px;
     height: auto;
     border-radius: 50%;
+}
+
+.heading-margin {
+    margin-top: 32px;
 }
 
 @keyframes gradient {
