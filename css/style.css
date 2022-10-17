@@ -4,9 +4,7 @@ body {
     background-color: #222222;
 }
 
-/**
- * Header
- */
+/* Header */
 
 .header {
     width: 100%;
@@ -41,9 +39,7 @@ body {
 	border-color: #fff rgba(0,0,0,0) rgba(0,0,0,0) rgba(0,0,0,0);
 }
 
-/**
- * Main
- */
+/* Main */
 
 .content {
     width: 100%;
@@ -88,6 +84,8 @@ body {
 .heading-margin {
     margin-top: 32px;
 }
+
+/* Footer */
 
 .footer {
     width: 100%;
