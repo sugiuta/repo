@@ -97,6 +97,26 @@ body {
     color: #ddd;
 }
 
+/* Button */
+
+.button {
+    display: inline-block;
+    background-color: #a9704d;
+    padding: 10px 30px;
+    text-align: center;
+    color: #fff;
+    margin: 16px 0 0;
+    border-radius: 20px;
+    background: linear-gradient(45deg, #b721ff, #21d4fd);
+    background-size: 200% 200%;
+    animation: gradient 10s ease infinite;
+}
+
+.link {
+    color: #21d4fd;
+    text-decoration: underline;
+}
+
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
