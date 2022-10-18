@@ -2,6 +2,7 @@
 body {
     margin: 0;
     background-color: #222222;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 /* Header */
@@ -44,9 +45,17 @@ body {
 .content {
     width: 100%;
     height: 100%;
-    padding: 0 16px;
+    padding: 16px 0 16px;
     box-sizing: border-box;
     background-color: #222222;
+}
+
+.content2 {
+    width: 100%;
+    height: 100%;
+    padding: 16px 0 16px;
+    box-sizing: border-box;
+    background-color: #272727;
 }
 
 .heading-2 {
@@ -70,6 +79,15 @@ body {
     text-align: center;
 }
 
+.tweak-image {
+    margin: 16px 0 0;
+    text-align: center;
+}
+.tweak-image img {
+    width: 50%;
+    height: auto;
+}
+
 .profile-image {
     margin: 16px 0 0;
     text-align: center;
@@ -82,7 +100,7 @@ body {
 }
 
 .heading-margin {
-    margin-top: 32px;
+    margin: 16px 0 16px;
 }
 
 /* Footer */
@@ -101,21 +119,30 @@ body {
 
 .button {
     display: inline-block;
-    background-color: #a9704d;
     padding: 10px 30px;
     text-align: center;
     color: #fff;
     margin: 16px 0 0;
     border-radius: 20px;
-    background: linear-gradient(45deg, #b721ff, #21d4fd);
-    background-size: 200% 200%;
-    animation: gradient 10s ease infinite;
 }
 
 .link {
     color: #21d4fd;
     text-decoration: underline;
 }
+
+.cydiaColor {
+    background-color: #a9704d;
+}
+
+.sileoColor {
+    background-color: #24d0b6;
+}
+
+.zebraColor {
+    background-color: #323232;
+}
+
 
 @keyframes gradient {
     0% {
