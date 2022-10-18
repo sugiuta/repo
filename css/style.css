@@ -9,10 +9,10 @@ body {
 
 .header {
     width: 100%;
-    height: 100px;
+    height: 120px;
     box-sizing: border-box;
-    background: linear-gradient(45deg, #b721ff, #21d4fd);
-    background-size: 200% 200%;
+    background: linear-gradient(45deg, #84fab0, #4facfe);
+    background-size: 159% 150%;
     animation: gradient 10s ease infinite;
 }
 
@@ -22,8 +22,8 @@ body {
 	padding: 16px;
 	font-size: 32px;
 	text-align: center;
-    height: 50px;
-    line-height: 50px;
+    height: 60px;
+    line-height: 60px;
     color: #fff;
 }
 
@@ -45,7 +45,7 @@ body {
 .content {
     width: 100%;
     height: 100%;
-    padding: 16px 0 16px;
+    padding: 16px 0 32px;
     box-sizing: border-box;
     background-color: #222222;
 }
@@ -53,7 +53,7 @@ body {
 .content2 {
     width: 100%;
     height: 100%;
-    padding: 16px 0 16px;
+    padding: 16px 0 32px;
     box-sizing: border-box;
     background-color: #272727;
 }
@@ -84,7 +84,7 @@ body {
     text-align: center;
 }
 .tweak-image img {
-    width: 50%;
+    width: 60%;
     height: auto;
 }
 
@@ -108,10 +108,9 @@ body {
 .footer {
     width: 100%;
     height: auto;
-    margin-top: 64px;
+    margin-top: 32px;
     padding: 0px;
     box-sizing: border-box;
-    background-color: #272727;
     color: #ddd;
 }
 
