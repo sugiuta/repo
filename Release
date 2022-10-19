@@ -1,0 +1,8 @@
+Origin: Sugiuta's Repo
+Label: Sugiuta's Repo
+Suite: stable
+Version: 1.0
+Codename: sugiuta
+Architectures: iphoneos-arm
+Components: main
+Description: iOS Tweak dev.
