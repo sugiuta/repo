@@ -1,3 +1,39 @@
+Package: com.misakaproject.plampycc
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sugiuta
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.misakaproject.plampycc_1.0.0_iphoneos-arm64.deb
+Size: 868046
+MD5sum: f41a6fcf12969d084491b8b05425199c
+SHA1: 8ba1d3f8f6a553dcf4611e2ea00c562cf6d8ae37
+SHA256: 9a6618e46104ea3562c75e34c39bbfaa9a60702132e1f4a44cc8ccb1113bfae3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: sugiuta
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.plampycc
+Icon: https://sugiuta.github.io/descriptions/com.misakaproject.plampycc/PlampyCC.png
+Name: PlampyCC
+
+Package: com.misakaproject.plampycc
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: sugiuta
+Installed-Size: 2768
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.misakaproject.plampycc_1.0.0_iphoneos-arm.deb
+Size: 867948
+MD5sum: 6cc3bb0b0f686544cca8d8c690fa807d
+SHA1: fa25c6eb83919d0fa6189530d968075505ce6c55
+SHA256: 2cdac39cc20f253ab880efd2af459c8eb42418f1571e05a7bb902fbd8f8c7ac1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: sugiuta
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.plampycc
+Icon: https://sugiuta.github.io/descriptions/com.misakaproject.plampycc/PlampyCC.png
+Name: PlampyCC
+
 Package: com.sugiuta.circleapps.trial
 Version: 1.0.0
 Architecture: iphoneos-arm64
