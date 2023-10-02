@@ -5,15 +5,15 @@ Maintainer: sugiuta
 Installed-Size: 2768
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.misakaproject.plampycc_1.0.0_iphoneos-arm64.deb
-Size: 868046
-MD5sum: f41a6fcf12969d084491b8b05425199c
-SHA1: 8ba1d3f8f6a553dcf4611e2ea00c562cf6d8ae37
-SHA256: 9a6618e46104ea3562c75e34c39bbfaa9a60702132e1f4a44cc8ccb1113bfae3
+Size: 867808
+MD5sum: 8b95cae3ecf31cd26bb21a0e88469582
+SHA1: 30d32fdbb450886a0e87f0e0c78ed2b98bfd272d
+SHA256: f2c7234370e90648fbd31a422d439a77563bc54f704eb84554d267a27fb7f8ea
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: PlampyCC by YangJiiii on Jailbroken devices
 Author: sugiuta
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.plampycc
-Icon: https://sugiuta.github.io/descriptions/com.misakaproject.plampycc/PlampyCC.png
+Icon: https://sugiuta.github.io/repo/images/icons/plampycc.png
 Name: PlampyCC
 
 Package: com.misakaproject.plampycc
@@ -23,15 +23,15 @@ Maintainer: sugiuta
 Installed-Size: 2768
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: ./debs/com.misakaproject.plampycc_1.0.0_iphoneos-arm.deb
-Size: 867948
-MD5sum: 6cc3bb0b0f686544cca8d8c690fa807d
-SHA1: fa25c6eb83919d0fa6189530d968075505ce6c55
-SHA256: 2cdac39cc20f253ab880efd2af459c8eb42418f1571e05a7bb902fbd8f8c7ac1
+Size: 868000
+MD5sum: 4644634afcf592326e31bbf2d88ba9d2
+SHA1: e15da2f173c71654fd3c7fb9bd8f141efa7e3a4b
+SHA256: fccc3073049179db020c6d448d07c3f967ec07ce855463fe3152ac0c485e779e
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: PlampyCC by YangJiiii on Jailbroken devices
 Author: sugiuta
 Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.misakaproject.plampycc
-Icon: https://sugiuta.github.io/descriptions/com.misakaproject.plampycc/PlampyCC.png
+Icon: https://sugiuta.github.io/repo/images/icons/plampycc.png
 Name: PlampyCC
 
 Package: com.sugiuta.circleapps.trial
